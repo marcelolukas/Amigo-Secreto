@@ -1,7 +1,7 @@
-# Amigo Secreto 🎁
+# Amigo Secreto 
 Um projeto simples e interativo para sortear amigos em um jogo de amigo secreto. Adicione os nomes dos participantes, visualize a lista e sorteie um amigo secreto aleatoriamente!
 
-# Funcionalidades ✨
+# Funcionalidades 
 Adicionar amigos: Insira os nomes dos participantes e veja a lista atualizada em tempo real.
 
 Sortear amigo secreto: Clique no botão "Sortear" para escolher um amigo secreto aleatoriamente.
@@ -38,7 +38,7 @@ JavaScript: Lógica do sorteio e manipulação do DOM.
 
 LocalStorage: Armazenamento dos dados no navegador.
 
-#Como executar o projeto localmente 💻
+#Como executar o projeto localmente 
 Clone o repositório:
 
 bash
@@ -53,7 +53,7 @@ Abra o arquivo index.html:
 
 Basta abrir o arquivo index.html no seu navegador favorito.
 
-#Estrutura do projeto 📂
+#Estrutura do projeto 
 Copy
 amigo-secreto/
 ├── index.html          # Página principal do projeto
